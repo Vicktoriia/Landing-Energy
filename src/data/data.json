@@ -1,21 +1,22 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "We are GRANDEX LLC",
+    "paragraph": "The main business activities include trading of metal and components for power industry, consulting and financial services. SET is a proud supplier of industrial automation and electrical equipment to more than 20 power facilities in 7 countries of the BSEC (Black Sea Economic Cooperation) and Eastern European regions."
+
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "These include, 6 nuclear power plants and 3 high-volume hydroelectric power plants. SET provides business consulting services for companies entering and/or looking to strengthen their position on the Eastern European market. SET has a more than a 10 year history of providing marketing and logistical solutions to complex trading and supply chain problems, as well as offering professional legal support to companies at any stage of project development, all to the benefit our business partners and our customers. Our expert team consists of qualified, experienced professionals in managerial, engineering, and judicial fields.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "physical trading of Metals & related products: flat steel products, galvanized and colour coated cold rolled coils, tinplate, etc.",
+      "physical trading of Components for Power Industry: cables, high voltage equipment, generators, circuit breakers, etc.",
+      "Our extensive knowledge about- and a long-lasting presence on- the Eastern European market allows us to provide expert advice concerning any and all matters that your business might face while operating in the region.",
+      ""
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "As a part of the business consulting services SET provides customized finance packages which include different trade finance instruments (e.g. Supply Chain Financing), ensuring execution of the contractual obligations by the counterparties and partners, as well as risk management facilities (to hedge company's exposure to physical market price fluctuations as well as FX risks).",
+      "",
+      "",
+      ""
     ]
   },
   "Gallery": [
@@ -161,24 +162,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-puzzle-piece",
+      "title": "ATTENTION TO DETAILS",
+      "text": "Ideological considerations, and even the beginning of daily work on forming a position."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-clock-o",
+      "title": "PUNCTUALITY",
+      "text": "The task of the organization, especially the framework and the place of personnel training, attracts."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-clipboard",
+      "title": "PLANNING",
+      "text": "Likewise, consultation with a broad asset largely determines."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-space-shuttle",
+      "title": "MODERN TECHNOLOGY",
+      "text": "The importance of these problems is so obvious that the implementation of planned tasks."
     }
   ]
 }
