@@ -1,5 +1,5 @@
 import { useState } from "react";
-import emailjs from "emailjs-com";
+import emailjs from "@emailjs/browser";
 import React from "react";
 
 const initialState = {
@@ -20,7 +20,12 @@ export const Contact = (props) => {
     e.preventDefault();
     console.log(name, email, message);
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_USER_ID")
+      .sendForm(
+        "service_qfxw02m",
+        "template_0w5vank",
+        e.target,
+        "N6C48f6Ao0HOx8PHA"
+      )
       .then(
         (result) => {
           console.log(result.text);
@@ -29,8 +34,9 @@ export const Contact = (props) => {
         (error) => {
           console.log(error.text);
         }
-      );
-  };
+    );
+    e.target.reset()
+  }
   return (
     <div>
       <div id="contact">
