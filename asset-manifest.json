@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Landing-Energy/static/css/main.ae42ac5f.css",
+    "main.js": "/Landing-Energy/static/js/main.dd239c13.js",
+    "index.html": "/Landing-Energy/index.html",
+    "main.ae42ac5f.css.map": "/Landing-Energy/static/css/main.ae42ac5f.css.map",
+    "main.dd239c13.js.map": "/Landing-Energy/static/js/main.dd239c13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.dd239c13.js"
+  ]
+}
