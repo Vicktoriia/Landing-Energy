@@ -1,6 +1,7 @@
 {
   "name": "landingpage-react-template",
   "private": true,
+  "homepage": "https://Vicktoriia.github.io/Landing-Energy/",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@testing-library/jest-dom": "^4.2.4",
